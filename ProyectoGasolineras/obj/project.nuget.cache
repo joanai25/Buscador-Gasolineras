@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnt8I6CP6WuQy5+VoKqWHxcRZbTNZqWyd0OnVPUt4y6QcOIv7ZLpoE3Wckw6nGinx8rh2SQ9RXHmMNQRh3TBKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joan Abad Irles\\Desktop\\Desarrollo de interfaces\\ProyectoGasolineras\\ProyectoGasolineras\\ProyectoGasolineras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joan Abad Irles\\.nuget\\packages\\microsoft.maps.mapcontrol.wpf\\1.0.0.3\\microsoft.maps.mapcontrol.wpf.1.0.0.3.nupkg.sha512",
+    "C:\\Users\\Joan Abad Irles\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Microsoft.Maps.MapControl.WPF 1.0.0.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \".NETCoreApp,Version=v3.1\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Microsoft.Maps.MapControl.WPF",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
